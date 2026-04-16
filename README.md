@@ -20,7 +20,7 @@ Me interesa el desarrollo de soluciones que permitan la simplificación de tarea
 ## 📂 Proyectos
 # 🚀 EduFlow IT - Automatización de Notas con n8n
 
-🔗 Enlace: https://github.com/usuario/repositorio
+🔗 Enlace: https://github.com/douglaslopezpublicos868-creator/EduFlow-IT---RECUPERACION
 -->
 
 ## 📫 Contacto
