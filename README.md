@@ -18,13 +18,8 @@ Me interesa el desarrollo de soluciones que permitan la simplificación de tarea
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 
 ## 📂 Proyectos
-🚧 Próximamente estaré agregando mis proyectos aquí...
+# 🚀 EduFlow IT - Automatización de Notas con n8n
 
-<!--
-Ejemplo de cómo agregar un proyecto:
-
-### Nombre del Proyecto
-Descripción breve del proyecto.
 🔗 Enlace: https://github.com/usuario/repositorio
 -->
 
